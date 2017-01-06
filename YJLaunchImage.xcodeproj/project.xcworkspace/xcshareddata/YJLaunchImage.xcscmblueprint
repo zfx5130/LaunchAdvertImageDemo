@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8DD387C3CBF32EE02B687F280B0B2E9A9D564F3E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8DD387C3CBF32EE02B687F280B0B2E9A9D564F3E" : 9223372036854775807,
+    "A00001375B6D3A32C5CE63E76EEA4326AF3A81DD" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "211427A3-BE2D-4C39-BD12-7B9177FEDB8C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8DD387C3CBF32EE02B687F280B0B2E9A9D564F3E" : "LaunchAdvertImageDemo\/YJLaunchImage\/",
+    "A00001375B6D3A32C5CE63E76EEA4326AF3A81DD" : "LaunchAdvertImageDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YJLaunchImage",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YJLaunchImage.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/myiosemail\/YJLaunchImage",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8DD387C3CBF32EE02B687F280B0B2E9A9D564F3E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zfx5130\/LaunchAdvertImageDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A00001375B6D3A32C5CE63E76EEA4326AF3A81DD"
+    }
+  ]
+}
